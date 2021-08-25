@@ -1,2 +1,2 @@
-# aws-cicd pipeline
+# aws-cicd pipeli
 # te
